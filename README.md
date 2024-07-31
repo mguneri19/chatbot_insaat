@@ -1,6 +1,6 @@
 # İnşaat A.Ş. Müşteri Temsilcisi Chatbotu 
 
-Bu proje, İnşaat A.Ş. için özel olarak geliştirilmiş bir sohbet botu uygulamasıdır. Kullanıcılar, bu bot ile iletişim kurarak inşaat projeleri hakkında sorularını sorabilir ve asistanın yanıtlarını alabilirler.
+Bu proje, kurgusal bir şirket olan İnşaat A.Ş. için özel olarak geliştirilmiş bir sohbet botu uygulamasıdır. Kullanıcılar, bu bot ile iletişim kurarak bu şirketin inşaat projeleri hakkında sorularını sorabilir ve asistanın yanıtlarını alabilirler.
 
 ## Kurulum ve Kullanım
 
